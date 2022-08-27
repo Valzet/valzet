@@ -1,10 +1,10 @@
-### Привет 👋
-### Я Влад и я начинающий front-end разработчик из Петербурга.
+### Hi! 👋
+### I'm Vlad and I'm a beginner front-end developer from St. Petersburg.
 
-- 💪 Мне нравится писать код.
-- 💬 Я комуникабельный.
-- 🌱 Я хочу вырасти отличным программистом.
-- 🎉 В свободное время катаюсь на мотоцикле.
+- 💪 I realy like writing code.
+- 💬 I am communicative.
+- 🌱 I want to grow up as a great programmer.
+- 🎉 Riding a motorcycle for fun
  
 
  ### Languages and Tools:
@@ -16,8 +16,8 @@
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 
- ### Написать мне в ВК
- [<img align="left" alt="Моя страница в ВК | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+ ### Contacts
+ [<img align="left" alt="VK | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 
  [vk]: https://vk.com/id234554336
