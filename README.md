@@ -20,7 +20,7 @@
 <br>
 
  ### Contacts
- [<img align="left" alt="TG" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][tg]
+ [<img align="left" alt="TG" width="44px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][tg]
 
 
  [tg]: https://t.me/vladbvy
