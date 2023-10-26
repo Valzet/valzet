@@ -20,7 +20,7 @@
 <br>
 
  ### Contacts
- [<img align="left" alt="TG" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg](https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle-thumbnail.png)https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle-thumbnail.png" />][tg]
+ [<img align="left" alt="TG" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][tg]
 
 
  [tg]: https://t.me/vladbvy
