@@ -1,9 +1,8 @@
 ### Hi! 👋
-### I'm Vlad and I'm a software-engineer from St. Petersburg. Check my site-portfolio www.whitebell.ru
+### I'm Vlad and I'm a software-engineer from St. Petersburg
 
 - 💪 I realy like writing code.
 - 💬 I am communicative.
-- 🌱 I want to grow up as a great programmer.
 - 🎉 Riding a motorcycle for fun
  
 
